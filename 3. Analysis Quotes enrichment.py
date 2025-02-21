@@ -1,0 +1,10 @@
+In each problem and its corresponding text fragment reflecting the expected outcome, find more quotes in {{#1730999591721.item#}} that confirm the presence of such a problem and the user's expected outcome.
+Text fragments should reflect expected outcomes - what the user wants to achieve or avoid, regardless of specific solutions. These expected outcomes form the basis for formulating Job Stories. Fragments should be complete and carry context so that knowing only them, one can formulate expected outcomes.
+Expected outcome:
+Reflects an undesirable event (control object), after which the user will inevitably be dissatisfied, so their task (need) will not be fulfilled or will be fulfilled with difficulties. Or reflects what the user wants to achieve.
+For each problem, supplement the list of quotes here in accordance with the user's task, which further reveal the presence of the user's problem in the context of their task and indicate the corresponding desired outcome that the user was asked about. Provide the answer in the same format, with an additional number of quotes exclusively for all problems, not just one.
+To do this, supplement the text under the problems with additional quotes and provide strictly in the same format for each problem here: {{#1730999813546.text#}}
+Next to the quote timing, be sure to indicate the respondent's name in the format (respondent's name, fragment timing).
+Before each problem and its relevant quotes, ensure the mandatory presence of Text number: <text_number>.
+When performing, strictly do not exclude already found quotes, but simply supplement them. Do not write old/additional. Just provide the full list for each problem.
+Important! Provide the result strictly in English. If the text is in another language, translate it into English before providing it.

@@ -1,0 +1,16 @@
+"""
+SPECIFICATION
+
+Purpose:
+The configuration file defines HTTP POST request parameters for creating needs analysis tables.
+
+Features:
+- Specifies endpoint URL
+- Defines content type
+- Contains request body format
+"""
+
+# Sends HTTP request to server
+method POST http://64.23.135.82:8000/create-sheet
+Content-type Application/json
+{"cleaned_str": "processedTextBeforeSending/{x}cleaned_str"} # important: variable from previous node must be in quotes!!!
